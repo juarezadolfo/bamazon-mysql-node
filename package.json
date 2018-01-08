@@ -1,0 +1,21 @@
+{
+  "name": "mysql-bamazon",
+  "version": "1.0.0",
+  "description": "bamazon mysql node",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bamazon",
+    "node",
+    "mysql"
+  ],
+  "author": "azj",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.0.0",
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0"
+  }
+}
